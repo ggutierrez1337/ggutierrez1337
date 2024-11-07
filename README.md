@@ -13,9 +13,9 @@
 
 <h3><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</h3>
 
-- [Enhancing SOC Operations: Scalable IP Address Management w/ Python](https://github.com/edgarjvalen/ipinfo/blob/main/README.md)
 - [Mac Address Changer](https://github.com/ggutierrez1337/mac_address_changer)
-  
+- [ARP Spoofer](https://github.com/ggutierrez1337/arp_spoofer/blob/main/README.md)
+    
 <h2>🏅 Certfications</h2>
 
   - [CompTIA CySA+](https://www.credly.com/badges/3fb93a14-e69b-4604-9367-bc5259d0ae54/public_url)
