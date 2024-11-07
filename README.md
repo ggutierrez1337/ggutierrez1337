@@ -3,7 +3,7 @@
 
 <h3>Active Directory</h3>
 
-- [Active Directory Domain Controller Migration (Winodws Server 2019 to Windows Server 2022)](https://github.com/ggutierrez1337/domain_controller_migration/blob/main/README.md)
+- [Active Directory Domain Controller Migration (Windows Server 2019 to Windows Server 2022)](https://github.com/ggutierrez1337/domain_controller_migration/blob/main/README.md)
 - [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
 
 <h3>🔐 Cybersecurity</h3>
