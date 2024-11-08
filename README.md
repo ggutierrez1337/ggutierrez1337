@@ -4,7 +4,10 @@
 <h3>Active Directory</h3>
 
 - [Active Directory Domain Controller Migration (Windows Server 2019 to Windows Server 2022)](https://github.com/ggutierrez1337/domain_controller_migration/blob/main/README.md)
-- [Setting Up MFA and Protecting RDP Using Duo (Server 2019)](https://github.com/edgarjvalen/rdp-mfa-duo-azure/blob/main/README.md)
+- [Joining a Windows 10 Client to an AD Domain](https://github.com/ggutierrez1337/domain_join/blob/main/README.md)
+- [Managing User Accounts and Template Account Utilization](https://github.com/ggutierrez1337/managing_ad_objects/blob/main/README.md)
+- [Pre-Staging Computers and Redirecting New Computers to a dedicated OU](https://github.com/ggutierrez1337/new_computer_management/blob/main/README.md)
+- [Delegating Controls to Domain User Groups](https://github.com/ggutierrez1337/controls_delegation/blob/main/README.md)
 
 <h3>🔐 Cybersecurity</h3>
 
