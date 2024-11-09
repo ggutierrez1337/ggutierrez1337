@@ -11,7 +11,7 @@
 
 <h3>🔐 Cybersecurity</h3>
 
-- [Azure Honeynet & SOC: Cyber Attacks in Real Time](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
+- [Building a Security Operations Center (SOC)](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
 
 <h3><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</h3>
