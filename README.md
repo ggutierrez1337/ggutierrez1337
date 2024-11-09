@@ -1,4 +1,8 @@
 <h1>Hi, I'm Gabriel, an <a href="https://www.linkedin.com/in/gutierrezig/">Aspiring Cybersecurity Professional</a></h1>
+
+<h2>Introduction</h2>
+<a href="https://www.linkedin.com/in/gutierrezig/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <h2>👨‍💻 Projects</h2>
 
 <h3>Active Directory</h3>
@@ -27,6 +31,5 @@
   - (ISC)2 Certified in Cybersecurity (CC)
  
 
-<h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/gutierrezig/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
