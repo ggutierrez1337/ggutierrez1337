@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gabriel, an <a href="https://www.linkedin.com/in/gutierrezig/">Aspiring Cybersecurity Professional</a></h1>
 
-<h2>Introduction</h2>
 <a href="https://www.linkedin.com/in/gutierrezig/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br></br>
 
 <h2>👨‍💻 Projects</h2>
 
