@@ -18,6 +18,7 @@
 - [Building a Security Operations Center (SOC)](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
 - [Phishing Site Deployment via AWS](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
+- [Lima Charlie EDR with Tines SOAR Detection and Response](https://github.com/ggutierrez1337/edr-soar/blob/main/README.md)
 
 <h3><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</h3>
 
