@@ -23,6 +23,7 @@
 <h3>🧱 Firewall and IDS/IPS</h3>
 
 - [pfSense/Ubuntu Server VM Installation and Network Configuration](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
+- [pfSense - Adding Firewall Rules and Aliases](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
 
 
 
