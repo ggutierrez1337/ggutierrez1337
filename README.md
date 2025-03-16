@@ -22,7 +22,7 @@
 
 <h3>🧱 Firewall and IDS/IPS</h3>
 
-- [pfSense and Ubuntu Server VM Installation and Configuration](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
+- [pfSense/Ubuntu Server VM Installation and Network Configuration](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
 
 
 
