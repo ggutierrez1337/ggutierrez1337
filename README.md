@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Projects</h2>
 
-<h3>Active Directory</h3>
+<h2>Active Directory</h2>
 
 - [Active Directory Domain Controller Migration (Windows Server 2019 to Windows Server 2022)](https://github.com/ggutierrez1337/domain_controller_migration/blob/main/README.md)
 - [Joining a Windows 10 Client to an AD Domain](https://github.com/ggutierrez1337/domain_join/blob/main/README.md)
@@ -13,14 +13,20 @@
 - [Pre-Staging Computers and Redirecting New Computers to a dedicated OU](https://github.com/ggutierrez1337/new_computer_management/blob/main/README.md)
 - [Delegating Controls to Domain User Groups](https://github.com/ggutierrez1337/controls_delegation/blob/main/README.md)
 
-<h3>🔐 Cybersecurity</h3>
+<h2>🔐 Cybersecurity</h2>
 
 - [Building a Security Operations Center (SOC)](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
 - [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
 - [Phishing Site Deployment via AWS](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
 - [Lima Charlie EDR with Tines SOAR Detection and Response](https://github.com/ggutierrez1337/edr-soar/blob/main/README.md)
 
-<h3><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</h3>
+<h3>🧱 Firewall and IDS/IPS</h3>
+
+- [pfSense and Ubuntu Server VM Installation and Configuration](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
+
+
+
+<h2><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</h2>
 
 - [Mac Address Changer](https://github.com/ggutierrez1337/mac_address_changer)
 - [ARP Spoofer](https://github.com/ggutierrez1337/arp_spoofer/blob/main/README.md)
