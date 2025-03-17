@@ -24,7 +24,7 @@
 
 - [pfSense/Ubuntu Server VM Installation and Network Configuration](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
 - [pfSense - Adding Firewall Rules and Aliases](https://github.com/ggutierrez1337/pfsense-rules-aliases/blob/main/README.md)
-
+- [pfSense - Installing and Configuring Snort IDS/IPS on a pfSense Firewall](https://github.com/ggutierrez1337/pfsense-snort-IDS-IPS/blob/main/README.md)
 
 
 <h2><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</h2>
