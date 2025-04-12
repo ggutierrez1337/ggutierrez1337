@@ -31,6 +31,7 @@
 
 - [Mac Address Changer](https://github.com/ggutierrez1337/mac_address_changer)
 - [ARP Spoofer](https://github.com/ggutierrez1337/arp_spoofer/blob/main/README.md)
+- [Network Scanner and Host Detection](https://github.com/ggutierrez1337/network_scannner/blob/main/README.md)
     
 <h2>🏅 Certfications</h2>
 
