@@ -22,7 +22,7 @@
 
 <h3>🕵🏽‍♂️ Security Operations</h3>
 
-- [SOC Detection and Alerting Automation](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
+- [SOC Detection and Alerting Automation](https://github.com/ggutierrez1337/SOCAutomation/blob/main/README.md)
 
 
 <h3>🧱 Firewall and IDS/IPS</h3>
