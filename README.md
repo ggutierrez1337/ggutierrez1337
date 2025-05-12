@@ -33,7 +33,7 @@
 
 <h3>🪲 Malware Analysis</h3>
 
-- [Analysis of budget-report.exe](https://github.com/ggutierrez1337/budge-report.exe-Analysis/tree/main#dynamic-analysis)
+- [Analysis of budget-report.exe](https://github.com/ggutierrez1337/budge-report.exe-Analysis)
 
 
 <h2><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</h2>
