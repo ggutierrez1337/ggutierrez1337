@@ -20,6 +20,11 @@
 - [Phishing Site Deployment via AWS](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
 - [Lima Charlie EDR with Tines SOAR Detection and Response](https://github.com/ggutierrez1337/edr-soar/blob/main/README.md)
 
+<h3>🕵🏽‍♂️ Security Operations</h3>
+
+- [SOC Detection and Alerting Automation](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
+
+
 <h3>🧱 Firewall and IDS/IPS</h3>
 
 - [pfSense/Ubuntu Server VM Installation and Network Configuration](https://github.com/ggutierrez1337/pfSense-and-Ubuntu/blob/main/README.md)
