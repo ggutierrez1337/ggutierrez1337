@@ -16,11 +16,11 @@
 <h2>🔐 Cybersecurity</h2>
 
 
-- [Lima Charlie EDR with Tines SOAR Detection and Response](https://github.com/ggutierrez1337/edr-soar/blob/main/README.md)
 
 <h3>🕵🏽‍♂️ Security Operations</h3>
 
 - [SOC Detection and Alerting Automation](https://github.com/ggutierrez1337/SOCAutomation/tree/main)
+- [Lima Charlie EDR with Tines SOAR Detection and Response](https://github.com/ggutierrez1337/edr-soar/blob/main/README.md)
 
 
 <h3>🧱 Firewall and IDS/IPS</h3>
