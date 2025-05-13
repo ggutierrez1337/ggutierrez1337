@@ -15,9 +15,7 @@
 
 <h2>🔐 Cybersecurity</h2>
 
-- [Building a Security Operations Center (SOC)](https://github.com/edgarjvalen/azure-soc-honeynet/blob/main/README.md)
-- [Incident Response Documentation on Findings](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
-- [Phishing Site Deployment via AWS](https://github.com/edgarjvalen/azure-incident-response/blob/main/README.md)
+
 - [Lima Charlie EDR with Tines SOAR Detection and Response](https://github.com/ggutierrez1337/edr-soar/blob/main/README.md)
 
 <h3>🕵🏽‍♂️ Security Operations</h3>
