@@ -19,6 +19,7 @@
 
 <h3>🕵🏽‍♂️ Security Operations</h3>
 
+- [End-to-End SOC Deployment and Incident Response](https://github.com/ggutierrez1337/DFIR-SOC-Deployment/tree/main)
 - [SOC Detection and Alerting Automation](https://github.com/ggutierrez1337/SOCAutomation/tree/main)
 - [Lima Charlie EDR with Tines SOAR Detection and Response](https://github.com/ggutierrez1337/edr-soar/blob/main/README.md)
 
