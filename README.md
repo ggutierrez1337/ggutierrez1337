@@ -5,7 +5,7 @@
 
 <h1>👨‍💻 Projects</h1>
 
-<h2>🖥️ Active Directory</h2>
+<h3>🖥️ Active Directory</h3>
 
 - [Active Directory Domain Controller Migration (Windows Server 2019 to Windows Server 2022)](https://github.com/ggutierrez1337/domain_controller_migration/blob/main/README.md)
 - [Joining a Windows 10 Client to an AD Domain](https://github.com/ggutierrez1337/domain_join/blob/main/README.md)
