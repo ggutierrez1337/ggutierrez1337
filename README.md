@@ -48,6 +48,7 @@
   - (ISC)2 Systems Security Certified Practitioner (SSCP)
   - (ISC)2 Certified in Cybersecurity (CC)
   - AWS Certified Cloud Practitioner
+  - AWS Solutions Architect Associate
   - AZ-900
  
 
