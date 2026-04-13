@@ -44,6 +44,7 @@
 <h2>🏅 Certfications</h2>
 
   - [Comptia A+](https://www.credly.com/badges/3fb93a14-e69b-4604-9367-bc5259d0ae54/public_url)
+  - [Comptia Network+](https://www.credly.com/earner/earned/badge/6b219fb1-5a2b-4c93-b37e-5f0e774e47ba)
   - [CompTIA Security+](https://www.credly.com/badges/c11e1aae-3e11-4f08-b837-ce69c9b7d044/public_url)
   - [CompTIA CySA+](https://www.credly.com/badges/3fb93a14-e69b-4604-9367-bc5259d0ae54/public_url)
   - (ISC)2 Systems Security Certified Practitioner (SSCP)
